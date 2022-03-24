@@ -1,3 +1,2 @@
 # odnac.github.io  
-
-# make money
+studing
