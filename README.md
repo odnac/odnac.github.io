@@ -1,2 +1,0 @@
-# odnac.github.io  
-studing
