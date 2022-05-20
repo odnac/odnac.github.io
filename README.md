@@ -1,2 +1,2 @@
-# Odnac!!
+# odnac.github.io  
 studing
